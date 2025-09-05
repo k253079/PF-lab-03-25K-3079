@@ -3,4 +3,5 @@
 # Heading
 1. James Madison
 * James Monroe
-***This text is both bold and italics***\
+\
+***This text is both bold and italics***
